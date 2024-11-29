@@ -34,8 +34,6 @@ rice-leaf-disease-classification.ipynb
 Evaluate the model performance on test data:
 
 
-### python test.py
-
 ### Usage
 Prediction: Use the jupiter notebook to classify new rice leaf images:
 
