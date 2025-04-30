@@ -13,7 +13,7 @@ This project focuses on classifying rice leaf diseases using deep learning. It e
 
 ---
 
-## ⚙Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
